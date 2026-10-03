@@ -1,1 +1,1 @@
-We will be covering git/github, html, css, javascript, AI prompting and deployment
+We will be covering git/github, html, css, javascript, AI prompting and deploy with render
